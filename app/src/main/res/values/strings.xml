@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Scavenger Hunt</string>
+    <string name="head_text">Your Next Hint is:</string>
+</resources>
